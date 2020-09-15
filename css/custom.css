@@ -1,0 +1,38 @@
+.img-logo {
+  width: 100px;
+  margin-bottom: 20px !important;
+}
+
+.navbar-brand {
+  padding: 0px 0px !important;
+}
+
+.section-btn {
+  background: #fbd005 !important;
+  color: rgb(17, 17, 17) !important;
+  font-weight: bold !important;
+}
+
+.story-img {
+  width: 400px !important ;
+}
+
+@media (min-width: 768px) {
+  .custom-navbar.top-nav-collapse {
+    padding-bottom: 30px !important;
+  }
+}
+
+@media (min-width: 200px) {
+  .custom-navbar.top-nav-collapse {
+    padding-bottom: 30px !important;
+  }
+
+  .custom-navbar {
+    padding-bottom: 30px !important;
+  }
+
+  .img-logo {
+    margin-left: 20px;
+  }
+}
